@@ -11,10 +11,12 @@
   "author": "Raul Pena",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-glsl": "^2.8.3",
     "@parcel/transformer-sass": "^2.8.3",
     "parcel": "^2.8.3"
   },
   "dependencies": {
+    "lil-gui": "^0.18.0",
     "three": "^0.150.1"
   }
 }
